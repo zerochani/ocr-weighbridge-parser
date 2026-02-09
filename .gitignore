@@ -120,7 +120,7 @@ cython_debug/
 
 # User-specific
 output/
-
 DESIGN_EXPLANATION_KR.md
 QUICKSTART.md
 THINKING_PROCESS.md
+CODE_EXPLANATION.md
